@@ -10,4 +10,4 @@ Setting up Flutter, Dart and Device_Preview:
 - [device_preview | Flutter Package](https://pub.dev/packages/device_preview)
 
 ## Demo
-Update soon....
+![](https://i.imgur.com/fXIsSaM.gif)
